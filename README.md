@@ -12,16 +12,23 @@ Our community is built on the passion and dedication of individuals committed to
 
 ##### Workshop
 
-**Goal:**  
-Your team will implement a simplified process where Santa receives and delivers presents using **GoBPM**, a simple workflow engine. By the end of this workshop, you’ll have a working prototype that demonstrates key stages of a business process while applying XP principles you find suitable (Simple design, Pair Programming, Small Releases, Continuous Integration, ...).
+**Goal 🎯:**  
+Your team will implement a simplified process which helps Santa/Ježíšek handle present processing and delivery using **GoBPM**, a simple workflow engine. By the end of this workshop, you’ll have a working prototype that demonstrates key stages of a business process while applying XP principles you find suitable (Simple design, Pair Programming, Small Releases, Continuous Integration, ...).
 **Duration:** 3 hours  
 **Team Size:** 3-5 students
 
-**Key Objective:** Learn to use GoBPM to model a business process and implement it step-by-step while following XP techniques to stay focused, collaborative, and iterative. 
+**Key Objective :** Learn to use GoBPM to model a business process and implement it step-by-step while following XP techniques to stay focused, collaborative, and iterative. 
 
-**Tools and technologies:** Use any tools you like. Use any programming language, use AI, use older projects. Setup yourself for Rapid progress 💪
+**Tools and technologies 🛠️:** Use any tools you like. Use any programming language, use AI, use older projects. Setup yourself for Rapid progress 💪
 
 
+**Achievements** 🥇🥈🥉:
+- **X Points** for active teamwork and collaboration.    
+- **Y Points** for the best product based on:    
+    - **Functionality**: Does it work well?        
+    - **Complexity**: How sophisticated is the solution?        
+    - **Uniqueness**: Is it creative and different?        
+    - **Fun Factor**: Does it have a fun or innovative twist?        
 
 ---
 
@@ -33,7 +40,7 @@ Your team will implement a simplified process where Santa receives and delivers 
     1. _“As Santa, I can load a child’s wish list so I know what presents to prepare.”_
     2. _“As an elf, I can mark a present as packaged and ready.”_
     3. _“As Santa, I can view all presents ready for delivery.”_
-- Choose 2-3 small stories to implement during the workshop. 🎅🎁🎄
+- Choose only achievable number of small stories to implement during the workshop. 🎅🎁🎄
 
 ---
 
@@ -105,7 +112,7 @@ Your team will implement a simplified process where Santa receives and delivers 
 ###  Tips for Success 🎄🎅🎁
 
 - **Focus on GoBPM**: Keep the workflow model simple and incremental.
-- **Work iteratively**: 
+- **Work iteratively**: Do small increments
 - **Communicate Actively**: Collaboration is key.
 - **Celebrate Progress**: Partial completion of a workflow is still success! 🎅🎁🎄
 
