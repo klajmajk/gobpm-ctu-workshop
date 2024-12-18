@@ -41,6 +41,7 @@ Your team will implement a simplified process which helps Santa/Ježíšek handl
     2. _“As an elf, I can mark a present as packaged and ready.”_
     3. _“As Santa, I can view all presents ready for delivery.”_
 - Choose only achievable number of small stories to implement during the workshop. 🎅🎁🎄
+- https://nitram509.github.io/lib-bpmn-engine/supported-elements/
 
 ---
 
